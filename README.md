@@ -1,10 +1,14 @@
 # know_emotions
 
 ## About:
-This app is helps you as it will tell the meaning of emojis(Which are in our database)<br>
-or you can click on random emoji and know the meaning in seconds!Just try it Once
+
+- This app will helps you to know the meaning of emogy(which only in our database) by just entering the emogy.
+
+- It will also shows the meaning of emogy by just clicking the mentioned emogy.
+
+- This app is made for fun
 
 ## Language Used
 
--Made with ReactJS
+- ReactJS
  
