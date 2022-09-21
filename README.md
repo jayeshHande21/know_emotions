@@ -8,6 +8,8 @@
 
 - This app is made for fun
 
+- Project Link : https://csb-8prmy.netlify.app/
+
 ## Language Used
 
 - ReactJS
